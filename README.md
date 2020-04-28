@@ -56,7 +56,9 @@ Para um melhor entendimento da solução, são fornecidos dois arquivos em que s
 
 O arquivo `answer.py` deve ser executado passando o TOKEN do usuário na linha de comando como em:
 
-```python3 answer.py SEU_TOKEN```
+```
+python3 answer.py SEU_TOKEN
+```
 
 O retorno será um Status Code do POST submetido para o cálculo do seu Score no desafio.
 
